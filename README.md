@@ -37,14 +37,11 @@ https://github.com/user-attachments/assets/11cb3919-1073-4ba3-8bcd-37a15ec53c33
 
 <!-- Add new updates above the existing entries, newest first. -->
 
-- **[2026-09-15]** 🔥 **Headline feature in [机器之心](https://mp.weixin.qq.com/s/bg0tkvHsKTZ88uBNKUdVTQ)**
-
-  **Open-source models surpass GPT-6 Astra on challenging computer-use benchmarks.**
-  Discover how RSIAgent turns autonomous exploration into reusable experience—without updating model weights.
-
-  [![WeChat article reads: 40K+](https://img.shields.io/badge/WeChat_reads-40K%2B-2E7D32?style=flat-square&logo=wechat&logoColor=white)](https://mp.weixin.qq.com/s/bg0tkvHsKTZ88uBNKUdVTQ)
-
-  <sub>Read-count snapshot: September 16, 2026.</sub>
+> **[2026-09-15]** 🔥 **Headline feature in [机器之心](https://mp.weixin.qq.com/s/bg0tkvHsKTZ88uBNKUdVTQ)**
+>
+> Open-source models surpass GPT-6 Astra on challenging computer-use benchmarks.
+>
+> [![WeChat article reads: 40K+](https://img.shields.io/badge/WeChat_reads-40K%2B-2E7D32?style=flat-square&logo=wechat&logoColor=white)](https://mp.weixin.qq.com/s/bg0tkvHsKTZ88uBNKUdVTQ) <sub>· As of Sep 16, 2026</sub>
 
 <a id="overview"></a>
 
